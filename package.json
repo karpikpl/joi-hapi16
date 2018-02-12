@@ -1,11 +1,15 @@
 {
-  "name": "joiHapi17",
+  "name": "joiHapi16",
   "version": "1.0.0",
   "main": "index.js",
   "author": "Piotr Karpala <karpik.pl@gmail.com>",
   "license": "MIT",
   "scripts": {
     "start": "nodemon index.js"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/karpikpl/joi-hapi16.git"
   },
   "dependencies": {
     "hapi": "16.6.2",
